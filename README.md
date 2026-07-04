@@ -79,7 +79,7 @@ French (Native) • English (Intermediate) • Basic Moore • Basic Ewe
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/folly-boris-daniel-hounouvi-784350217">
+  <a href="https://www.linkedin.com/in/folly-hounouvi-784350217/?skipRedirect=true">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:borisdanielhounouvi@gmail.com">
