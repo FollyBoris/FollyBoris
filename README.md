@@ -17,6 +17,7 @@
 - 🌱 Currently exploring Artificial Intelligence and its intersection with cybersecurity
 - 🧑‍🏫 I organize workshops and mentor others in AI, cybersecurity, and Python programming
 - ⚡ Fun fact: I've served as Secretary, Protocol Officer, Vice President, and President of Leo Club International
+- ⌛ Football - Basketball - Mobile Game (CODM.)
 
 ---
 
