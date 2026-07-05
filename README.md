@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Ph.D. in Computer Science (Ongoing) — NIST University, India
-- 🎓 M.Sc. in Cyber Security and Cyber Law — Marwadi University, India
-- 🎓 B.Sc. in Computer Science and Entrepreneurship — Burkina Institute of Technology, Burkina Faso
+- 🎓 Ph.D. in Computer Science (Ongoing) - NIST University, India
+- 🎓 M.Sc. in Cyber Security and Cyber Law - Marwadi University, India
+- 🎓 B.Sc. in Computer Science and Entrepreneurship - Burkina Institute of Technology, Burkina Faso
 - 💻 I build full-stack web & mobile applications, and I break (then help fix) systems as a cybersecurity researcher
 - 🔐 Passionate about vulnerability assessment, penetration testing, and secure software architecture
 - 🌱 Currently exploring Artificial Intelligence and its intersection with cybersecurity
