@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Folly Boris Daniel Hounouvi 👋</h1>
+<h1 align="center">Hi, I'm Folly Boris Daniel HOUNOUVI 👋</h1>
 <h3 align="center">Software Engineer • Cybersecurity Researcher • Ph.D. Candidate in Computer Science</h3>
 
 <p align="center">
